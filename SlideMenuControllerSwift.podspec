@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/dekatotoro/SlideMenuControllerSwift.git", :tag => s.version }
   s.source_files  = "Source/*.swift"
   s.requires_arc = true
+  s.swift_version = "5.0"
 end
