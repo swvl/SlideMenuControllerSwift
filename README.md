@@ -11,7 +11,7 @@ SlideMenuControllerSwift
 )](https://github.com/dekatotoro/SlideMenuControllerSwift/issues?state=open)
 [![Downloads](https://img.shields.io/cocoapods/dt/SlideMenuControllerSwift.svg)](https://cocoapods.org/pods/SlideMenuControllerSwift)
 
-
+## This pod was forked to migrate to Swift 5 and maintained by swvl team
 
 iOS Slide View based on iQON, Feedly, Google+, Ameba iPhone app.
 
